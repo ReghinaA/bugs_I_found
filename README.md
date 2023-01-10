@@ -2,15 +2,19 @@
 Some bugs I found
 --------------------------
 ### 💻 Desktop 
-(Mac, Chrome)
+(Mac, Chrome)  
+
 Note: This is not a proper bug report, so some of the details are not going to be here.
 
 
 #### 🤖 1. App shows my real first and last name instead of my username. This is an educational app for kids. I am an adult and a software tester, so I see these kind of things, but kids might not notice.
 
 I filled out First Name, Last Name and Username fields. 
-My username is regina_23. 
-I navigate away and play a specific game, Magma Mountain. 
+
+My username is regina_23.  
+
+I navigate away and play a specific game, Magma Mountain.  
+
 The app displays my First and Last Name instead of my Username. Here I use Tester as my Last name, but I actually registered with my real name and the app was displaying my real name which I don't want to be shared.
 
 
