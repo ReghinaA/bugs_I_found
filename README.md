@@ -34,7 +34,7 @@ The app is displaying my First and Last Name instead of my Username.
 ______________________________________________________________________________________
 
 #### 👾 2. Same educational app for kids who want to learn programming languages. It does not deal with switching between programming languages in the middle of the game well.  
-Java is available only based on subscription which is about $10/ month while Python and some other languages are free. 
+Java is available only based on subscription which is about $10/ month while Python and some other languages are free. The consept itself is quite interesting.
 
 If I select Python in the beginning of the game, start playing and then select Java it would show a warning message (which is not user friendly) and there would be mistakes in the script (like semicolon in Python and no semicolon in Java). 
 ______________________________________________________________________________________
