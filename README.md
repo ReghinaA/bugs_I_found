@@ -1,8 +1,8 @@
 # bugs_I_found
-Some critical bugs I found
+Some bugs I found
 --------------------------
 ### 💻 Desktop 
-(Mac,Chrome)
+(Mac, Chrome)
 Note: This is not a proper bug report, so some of the details are not going to be here.
 
 
