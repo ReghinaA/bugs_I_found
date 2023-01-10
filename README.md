@@ -36,12 +36,20 @@ ________________________________________________________________________________
 #### 👾 2. Same educational app for kids who want to learn programming languages. It does not deal with switching between programming languages in the middle of the game well. Java is available only based on subscription which is about $10/ month. 
 
 If I select Python in the beginning of the game, start playing and then select Java it would show a warning message (which is not user friendly) and there would be mistakes in the script (like semicolon in Python and no semicolon in Java). 
+______________________________________________________________________________________
 
 
-<img width="1292" alt="Screen Shot 2023-01-09 at 20 51 42" src="https://user-images.githubusercontent.com/66965539/211634227-5ed59e62-a71e-408c-a327-4a7dc02407f7.png">
+
+https://user-images.githubusercontent.com/66965539/211639684-1cba1708-ade9-49d5-8b25-9b1bed28d514.mov
 
 ______________________________________________________________________________________
-<img width="1289" alt="Screen Shot 2023-01-09 at 21 06 59" src="https://user-images.githubusercontent.com/66965539/211634325-792bba16-25ca-40c9-9985-1f91e360e7bc.png">
+
+Screen shots:
+
+<img width="800" alt="Screen Shot 2023-01-09 at 20 51 42" src="https://user-images.githubusercontent.com/66965539/211634227-5ed59e62-a71e-408c-a327-4a7dc02407f7.png">
+
+______________________________________________________________________________________
+<img width="800" alt="Screen Shot 2023-01-09 at 21 06 59" src="https://user-images.githubusercontent.com/66965539/211634325-792bba16-25ca-40c9-9985-1f91e360e7bc.png">
 
 
 
