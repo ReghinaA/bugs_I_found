@@ -2,10 +2,12 @@
 Some critical bugs I found
 --------------------------
 ### 💻 Desktop 
-(Chrome)
+(Mac,Chrome)
+Note: This is not a proper bug report, so some of the details are not going to be here.
 
 
-#### 🤖 1. App shows my real first and last name instead of my username.
+#### 🤖 1. App shows my real first and last name instead of my username. This is an educational app for kids. I am an adult and a software tester, so I see these kind of things, but kids might not notice.
+
 I filled out First Name, Last Name and Username fields. 
 My username is regina_23. 
 I navigate away and play a specific game, Magma Mountain. 
