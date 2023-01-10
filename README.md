@@ -33,7 +33,7 @@ The app is displaying my First and Last Name instead of my Username.
 
 ______________________________________________________________________________________
 
-#### 👾 2. Same app. It does not deal with switching between programming languages in the middle of the game well.
+#### 👾 2. Same educational app for kids who want to learn programming languages. It does not deal with switching between programming languages in the middle of the game well.
 If I select Python in the beginning of the game, start playing and then select Java it would show a warning message (which is not user friendly) and there would be mistakes in the script (like semicolon in Python and no semicolon in Java).
 
 <img width="1292" alt="Screen Shot 2023-01-09 at 20 51 42" src="https://user-images.githubusercontent.com/66965539/211634227-5ed59e62-a71e-408c-a327-4a7dc02407f7.png">
