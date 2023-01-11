@@ -4,7 +4,7 @@ Some bugs I found
 ### 💻 Desktop 
 (Mac, Chrome)  
 
-Note: This is not a proper bug report, so some of the details are not going to be here.
+Note: This is not a formal bug report, so some of the details are not going to be here.
 
 
 #### 🤖 1. App shows my real first and last name instead of my username. This is an educational app for kids. I am an adult and a software tester, so I see these kind of things, but kids might not notice.
