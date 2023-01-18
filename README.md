@@ -53,4 +53,22 @@ ________________________________________________________________________________
 <img width="800" alt="Screen Shot 2023-01-09 at 21 06 59" src="https://user-images.githubusercontent.com/66965539/211634325-792bba16-25ca-40c9-9985-1f91e360e7bc.png">
 
 
+______________________________________________________________________________________
+
+### 📱️ Mobile 
+(iOS, iPhone)
+
+#### 🛍️ There is a problem with the layout: in portrait mode it's displaying color selection on top of the text. In landscape mode everything looks fine.
+
+Screen shots:
+
+
+
+<img width="200" alt="IMG_6596" src="https://user-images.githubusercontent.com/66965539/213262591-4a4a3f78-690c-41b8-bd9b-636a5889e081.PNG">
+
+
+______________________________________________________________________________________
+
+
+<img width="300" alt="IMG_6597" src="https://user-images.githubusercontent.com/66965539/213262623-f7f06634-8a2d-4380-bcc5-48ba644d6233.PNG">
 
