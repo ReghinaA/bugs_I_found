@@ -63,14 +63,14 @@ ________________________________________________________________________________
 Screen shots:
 
 
-Portrait mode:
+Portrait mode
 
 <img width="200" alt="IMG_6596" src="https://user-images.githubusercontent.com/66965539/213264984-f533989f-f377-413a-9fae-2481a77fea6a.jpg">
 
 
 ______________________________________________________________________________________
 
-Landscape mode:
+Landscape mode
 
 <img width="300" alt="IMG_6597" src="https://user-images.githubusercontent.com/66965539/213262623-f7f06634-8a2d-4380-bcc5-48ba644d6233.PNG">
 
