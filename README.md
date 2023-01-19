@@ -58,7 +58,7 @@ ________________________________________________________________________________
 ### 📱️ Mobile 
 (iOS, iPhone)
 
-#### 🛍️ There is a problem with the layout: in portrait mode it's displaying color selection on top of the text. In landscape mode everything looks fine.
+#### 🛍️ There is a problem with the layout. In portrait mode, it is displaying color selection on top of the text. In landscape mode, everything looks fine.
 
 Screen shots:
 
