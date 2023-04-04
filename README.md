@@ -74,3 +74,33 @@ Landscape mode
 
 <img width="300" alt="IMG_6597" src="https://user-images.githubusercontent.com/66965539/213262623-f7f06634-8a2d-4380-bcc5-48ba644d6233.PNG">
 
+______________________________________________________________________________________
+
+### 💻 Desktop 
+
+#### 🛍️ It's not a bug, it's a feature
+
+An intentional error on a demo e-Commerce app from SQL for Testers course. I just could not resist and not to look into how they created this bug.
+
+We are looking at Address 1 field:
+
+<img width="834" alt="Screen Shot 2023-04-04 at 14 58 10" src="https://user-images.githubusercontent.com/66965539/229894520-aefb0efb-b5d4-401a-905c-ad033343d88d.png">
+
+______________________________________________________________________________________
+
+Original code:
+
+<img width="514" alt="Screen Shot 2023-04-04 at 14 57 57" src="https://user-images.githubusercontent.com/66965539/229894601-8c15abe6-9bce-421d-a272-7ee53b548122.png">
+
+______________________________________________________________________________________
+
+I looked at the code and just had to change it!
+
+<img width="516" alt="Screen Shot 2023-04-04 at 14 56 41" src="https://user-images.githubusercontent.com/66965539/229894959-41af9258-774e-42dc-b862-2165f94d151f.png">
+
+
+
+
+
+
+ 
