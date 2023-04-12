@@ -8,12 +8,12 @@ Note: This is not a formal bug report, so some of the details are not going to b
 
 #### 🛍️ 1. Integration with PayPal payment is not working.
 
-I put several items into the shopping cart and was going through the checkout process.
-I selected PayPal as a payment method.
-It successfully connected to PayPal and was working as expected until it was done with the PayPal part.
+I put several items into the shopping cart and was going through the checkout process.  
+I selected PayPal as a payment method.  
+It successfully connected to PayPal and was working as expected until it was done with the PayPal part.  
 I expected to see the "Submit Order" button, but instead it showed me a PayPal button again as if I never went through that step. So I
-wasn't able to pay via PayPal even though this platform claimed that they accept PayPal.
-I didn't have a credit card in my hands, that's why I selected PayPal.
+wasn't able to pay via PayPal even though this platform claimed that they accept PayPal.  
+I didn't have a credit card in my hands, that's why I selected PayPal.  
 I decided that the items I was going to order are not a necessity and ended up not ordering them, so they just lost a sale.
 
 <img width="1486" alt="Screen Shot 2023-04-05 at 14 06 18" src="https://user-images.githubusercontent.com/66965539/231559056-72ef8d20-ab24-4d47-be17-10d3df217ace.png">
