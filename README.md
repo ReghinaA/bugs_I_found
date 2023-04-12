@@ -6,8 +6,23 @@ Some bugs I found
 
 Note: This is not a formal bug report, so some of the details are not going to be here.
 
+#### 🛍️ 1. Integration with PayPal payment is not working.
 
-#### 🤖 1. App shows my real first and last name instead of my username. This is an educational app for kids. I am an adult and a software tester, so I see these kind of things, but kids might not notice.
+I put several items into the shopping cart and was going through the checkout process.
+I selected PayPal as a payment method.
+It successfully connected to PayPal and was working as expected until it was done with the PayPal part.
+I expected to see the "Submit Order" button, but instead it showed me a PayPal button again as if I never went through that step. So I
+wasn't able to pay via PayPal even though this platform claimed that they accept PayPal.
+I didn't have a credit card in my hands, that's why I selected PayPal.
+I decided that the items I was going to order are not a necessity and ended up not ordering them, so they just lost a sale.
+
+<img width="1486" alt="Screen Shot 2023-04-05 at 14 06 18" src="https://user-images.githubusercontent.com/66965539/231559056-72ef8d20-ab24-4d47-be17-10d3df217ace.png">
+
+
+______________________________________________________________________________________
+
+
+#### 🤖 2. App shows my real first and last name instead of my username. This is an educational app for kids. I am an adult and a software tester, so I see these kind of things, but kids might not notice.
 
 I filled out First Name, Last Name and Username fields. 
 
@@ -33,7 +48,7 @@ The app is displaying my First and Last Name instead of my Username.
 
 ______________________________________________________________________________________
 
-#### 👾 2. Same educational app for kids who want to learn programming languages. It does not deal with switching between programming languages in the middle of the game well.  
+#### 👾 3. Same educational app for kids who want to learn programming languages. It does not deal with switching between programming languages in the middle of the game well.  
 Java is available only based on subscription which is about $10/ month while Python and some other languages are free. The consept itself is quite interesting.
 
 If I select Python in the beginning of the game, start playing and then select Java it would show a warning message (which is not user friendly). Also there would be mistakes in the script (such as a semicolon at the end of a line in Python, but not in Java). 
