@@ -73,6 +73,28 @@ ________________________________________________________________________________
 
 ______________________________________________________________________________________
 
+#### 👜 💳 4. e-Commerce. 
+
+#### "Submit a help request to the seller" page does not accept my photo of the product, and there is no explanation why. The warning message is not user-friendly.
+
+I received the wrong item (I ordered a watercolor brush size 2, but received a brush size 4 instead).
+
+I need to upload a photo to show that I received the wrong item.
+
+I am trying to upload a photo that I took with my cellphone (iPhone).
+
+I am getting the message: "Hmm. Something went wrong. Please try again." There is no explanation.
+What kind of photos are OK to submit? Is format a problem? I am trying to submit a HEIC file.
+If this site cannot accept certain file formats or large files, etc., it should let the user know.
+
+I tried several things, but nothing worked for me. I ended up taking a screenshot of my photo, and only after that was I able to click the Send button.
+As a user, I got very frustrated. I want to get help with my order, not play a guessing game.
+This bug has been there for at least half a year.
+
+Screen shots:
+
+
+--------------------------------------------------------------------------------------
 ### 📱️ Mobile 
 (iOS, iPhone)
 
