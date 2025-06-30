@@ -22,7 +22,10 @@ I decided that the items I was going to order are not a necessity and ended up n
 ______________________________________________________________________________________
 
 
-#### 🤖 2. App shows my real first and last name instead of my username. This is an educational app for kids. I am an adult and a software tester, so I see these kind of things, but kids might not notice.
+#### 🤖 2. App shows my real first and last name instead of my username.
+
+This is an educational app for kids. I am an adult and a software tester, so I see these kind of things, but kids might not notice.
+
 
 I filled out First Name, Last Name and Username fields. 
 
