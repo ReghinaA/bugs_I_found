@@ -1,6 +1,6 @@
 # bugs_I_found
-Some bugs I found as a user/ customer
---------------------------
+## Some bugs I found as a user/ customer
+
 ### 💻 Desktop 
 (Mac, Chrome)  
 
