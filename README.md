@@ -93,6 +93,14 @@ This bug has been there for at least half a year.
 
 Screen shots:
 
+<img width="600" alt="Screen Shot 2025-05-30 at 12 07 51" src="https://github.com/user-attachments/assets/8857f07c-e625-40e3-bc89-e48144cce4dc">
+
+----------------------------
+
+Network:
+
+<img width="400" alt="Screen Shot 2025-05-30 at 12 13 31" src="https://github.com/user-attachments/assets/865f26d3-fa4b-4ece-a9b8-50179c697cf4">
+
 
 --------------------------------------------------------------------------------------
 ### 📱️ Mobile 
