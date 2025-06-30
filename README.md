@@ -101,6 +101,12 @@ Network:
 
 <img width="400" alt="Screen Shot 2025-05-30 at 12 13 31" src="https://github.com/user-attachments/assets/865f26d3-fa4b-4ece-a9b8-50179c697cf4">
 
+----------------------------
+
+AI assistance feature:
+
+<img width="800" alt="Screen Shot 2025-05-30 at 12 17 40" src="https://github.com/user-attachments/assets/05eb1388-578d-4b95-8333-2bc1cf710f27">
+
 
 --------------------------------------------------------------------------------------
 ### 📱️ Mobile 
